@@ -2,6 +2,9 @@
 
 I'm currently enrolled in a class at the University of California, Santa Barbara, studying reproducible research and data science! 
 
+I am interested in learning about the intersection of social psychology and neuroscience. I work at the Social Evaluations and Emotions Lab on campus, as well as do research in this area through the Communication department. 
+
+When not researching, I enjoy cooking, reading science-fiction and fantasy, and playing D&D with my friends :)
 <!--
 **asha509/asha509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
